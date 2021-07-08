@@ -1,5 +1,11 @@
 # vue-weather
 
+
+Following a youtube video from start to finish, i developed this Weather web app.
+
+Here is the source if you want to join me and learn: https://www.youtube.com/watch?v=JLc-hWsPTUY
+
+
 ## Project setup
 ```
 yarn install
